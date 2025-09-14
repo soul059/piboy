@@ -1,6 +1,11 @@
 # PiBoy
 
-A retro gaming and utility device powered by a Raspberry Pi Zero 2 W and a 0.96" I2C OLED display.
+A retro gaming and utility device for Raspberry Pi Zero 2 W 
+
+## Images
+
+![PiBoy Image 1](assets/piboy1.jpg)
+![PiBoy Image 2](assets/piboy2.jpg)
 
 ## Hardware
 
@@ -12,7 +17,7 @@ This section covers all the hardware-related aspects of the project.
 *   0.96" I2C 4-pin OLED display (128x64)
 *   Micro SD card (8GB or larger)
 *   Power supply
-*   Buttons for input
+*   (Optional) Buttons for input
 *   (Optional) Bluetooth speaker
 *   (Optional) Wi-Fi dongle
 
@@ -34,7 +39,7 @@ This project uses an 8-button matrix keypad for user input. The keypad is arrang
 
 Here is the wiring diagram for the 4x2 button matrix:
 
-![Button Matrix](button4x2.svg)
+![Button Matrix](assets/button4x2.svg)
 
 ##### How it Works
 
